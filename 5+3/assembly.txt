@@ -1,0 +1,3 @@
+LOAD R0, 5
+LOAD R1, 3
+ADD R0, R1

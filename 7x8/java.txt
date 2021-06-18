@@ -1,0 +1,6 @@
+int sum=0;
+int eight = 8;
+int one = 1;
+for (int i=7; i>0; i=i-one) {
+	sum = sum + eight;
+}
